@@ -1,0 +1,13 @@
+body {
+	font-family: Tahoma;
+	text-align: center;
+	background-color: orange;
+}
+canvas {
+	display: block;
+	margin: 2% auto;
+	border:2px solid orangered;
+}
+p {
+	color:white;
+}
